@@ -1,0 +1,20 @@
+git init - to initialise the git repo
+git status - to check status
+git add -A - to add all lines to staging area
+git commit -m "{{message}} - to commit lines to local repo
+git diff - changes are shown in previous adds and commits
+git reset - to undo changes from staging area
+git log - to get log all the previous command
+git checkout {{branch/file}} - to open a specific branch or file
+git branch {{branchname}} - to create a branch 
+git merge - to merge branch to master
+git remote add {{remote name}} {{url}} - to create a carrier that sends local repo to the github repo
+git push {{remote name}} - to push remote to github
+git clone {{URL}} - to clone one repo
+
+vagrant init - to initialise
+vagrant box list - to see available vms
+vagrant box add ubuntu/bionic64 - to add this specific vms
+vagrant ssh - to enter vms
+
+
